@@ -1,0 +1,108 @@
+{
+    "categories": [
+        {
+            "image": "assets/category_assets/arduino.png",
+            "title": "Arduino",
+            "count": "5 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+             "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        },
+        {
+            "image": "assets/category_assets/rpi_pico.jpg",
+            "title": "Raspberry Pi Pico",
+            "count": "5 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+                        "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        },
+        {
+            "image": "assets/category_assets/microbit.jpg",
+            "title": "BBC Micro:bit",
+            "count": "5 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+                        "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        },
+        {
+            "image": "assets/category_assets/raspberry_pi.jpg",
+            "title": "Raspberry Pi",
+            "count": "8 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+                        "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        },
+        {
+            "image": "assets/category_assets/stm32.jpg",
+            "title": "STM32",
+            "count": "10 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+                        "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        },
+        {
+            "image": "assets/category_assets/avr.jpg",
+            "title": "FPGA",
+            "count": "5 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+                        "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        },
+        {
+            "image": "assets/category_assets/pic.jpg",
+            "title": "Microchip PIC",
+            "count": "5 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+                        "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        },
+        {
+            "image": "assets/category_assets/8051.jpg",
+            "title": "Others",
+            "count": "5 Articles",
+            "source": "https://pixabay.com/photos/salmon-dish-food-meal-fish-518032/",
+                        "information": [
+                            "Course: Main Course",
+                            "Price: Cheap",
+                            "Cuisine: Meditarrian",
+                            "Skill Level: Beginner",
+                            "Prep Time 5 minutes"
+                        ]
+        }
+    ]
+}

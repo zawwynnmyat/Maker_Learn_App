@@ -1,0 +1,64 @@
+{
+    "feed": [
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Made this delicious pizza this morning",
+            "articlePictureUrl": "card_carrot.png",
+            "timestamp": "10"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Made delicious creamy, shrimp black pepper pasta.",
+            "articlePictureUrl": "card_carrot.png",
+            "timestamp": "80"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Made a delicious salad today!",
+            "articlePictureUrl": "card_carrot.png",
+            "timestamp": "20"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Cooked a widget this morning.",
+            "articlePictureUrl": "card_carrot.png",
+            "timestamp": "30"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Going to power through my day with this nutty smoothie to finish up Flutter apprentice for our readers!",
+            "articlePictureUrl": "card_carrot.png",
+            "timestamp": "40"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Cooking up some steak 🥩 today, state should be rare, medium or medium well?",
+            "articlePictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Kicking off the morning with mike's green smoothie recipe. Time to edit these chapters!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Not sure where I should travel to eat today.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "60"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Hot off the press, cooking up more books this year!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "70"
+        },
+        {
+            "profileImageUrl": "assets/zaw_myat.jpg",
+            "comment": "Hmmm.... Salmon, little broccoli, mash potatos",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "90"
+        }
+    ]
+}
